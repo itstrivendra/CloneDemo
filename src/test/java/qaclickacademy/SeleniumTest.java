@@ -30,5 +30,11 @@ public class SeleniumTest {
 		System.out.println("elementfdsUi+ Developed");	
 	}
 	
+	@Test
+	public void architectDeveloped()
+	{
+		System.out.println("Architect+Developed");	
+	}
+	
 	
 }
