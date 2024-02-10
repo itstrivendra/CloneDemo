@@ -25,10 +25,11 @@ public class RESTAPITest {
 		
 		
 	}
+	//Deleted Develop twiter
 	@Test
 	public void deleteTwitter12()
 	{
-		System.out.println("deleteTwddtter");
+		System.out.println("deletedevelopedTwitter");
 		
 		
 	}

@@ -18,15 +18,16 @@ public class SeleniumTest {
 	{
 		System.out.println("elementsUi");	
 	}
+	//Develeped
 	@Test
-	public void elementsU1i()
+	public void elementsUi1()
 	{
 		System.out.println("elementfdsUi");	
 	}
 	@Test
 	public void elementsU1ssi()
 	{
-		System.out.println("elementfdsUi");	
+		System.out.println("elementfdsUi+ Developed");	
 	}
 	
 	
