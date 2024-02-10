@@ -10,8 +10,8 @@ public class SeleniumTest {
 	public void BrowserAUtomation()
 	{
 		System.out.println("BrowserAUtomation");	
-		
-		System.out.println("Web automation");	
+		//Change done by Second User
+		System.out.println("WebAutomation from 2nd User");	
 	}
 	@Test
 	public void elementsUi()
